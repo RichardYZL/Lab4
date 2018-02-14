@@ -72,6 +72,7 @@ public class Colosseum {
      *         Implement this function.
      */
     public static Pokemon buildPokemon() {
+        
         Pokemon tempPokemon = new Pokemon();
         return tempPokemon;
     }
